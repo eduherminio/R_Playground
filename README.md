@@ -1,6 +1,4 @@
-# R PoC
-
-R playground
+# R Playground
 
 `run.sh` starts an instance of [r-base](https://hub.docker.com/_/r-base) docker container with `src/` dir mounted.
 
